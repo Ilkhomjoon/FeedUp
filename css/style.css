@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.aloqa{
+    border-bottom: 2px solid grey;
+    margin: auto 200px;
+    padding: 5px;
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.aloqa > ul {
+    display: flex;
+    list-style: none;
+    text-align: right;
+    
+}
+
+li {
+    padding: 0px 10px;
+}
+
+.feedup {
+    background-color: black;
+    width: 150px;
+    display: flex;
+    padding: 0 20px;
+}
+
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px;
+    padding: 10px 30px;
+
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    
+}
+
+.navbar li{
+    font-size: larger;
+    background-color: white;
+    color: red;
+    padding: 7px 20px 1px 20px;
+
+}
+
+.up {
+    color: yellow;
+}
+
+.feed {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+}
+
+
+.li {
+    padding: 0px;
+}
+
+.keremas {
+    margin: auto 0;
+}
+
+.logo {
+    width: 50px;
+    color: black;
+    background-color: red;
+    display: flex;
+}
+
+.navbar > .kereli > li{
+    display: block;
+}
+
+.navbar > .kereli > li:hover {
+ 
+    box-sizing: inherit;
+    color: black;
+    border-bottom: 3px solid red;
+    
+}
+
+img{
+    width: 100%;
+}
+
+.rasm {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.text{
+    background-color: rgba(255, 255, 255, 0.753);
+    position: absolute;
+    width: 20%;
+    left: 5%;
+    bottom: 37%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    
+    
+}
+ .h{
+     text-align: center;
+ }
+
+ h4{
+     text-align: center;
+     margin: 20px;
+ }
